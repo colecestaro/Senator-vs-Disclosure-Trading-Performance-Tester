@@ -1,5 +1,5 @@
 # Senator Stock Trading Tester
-This is Cole Cestaro's Mobile Application. I am from John Handley High School. The app is a 10 question quiz of different FBLA topics. The app includes a terms and conditions view, introduction, instructions, social media integration, and a bug reporting screen. I used my brother's Mac, and his Apple developer account, to create the app. That is why some files use his developer account ID. Though, I completely designed and developed everything myself.
+Program to compare stock performance of Senator's transactions vs when the sale is disclosed. Using to find if tracking Senator stock trades is a worthwhile investment strategy: it is.
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 # Installation Instructions
