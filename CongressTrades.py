@@ -105,7 +105,7 @@ for trade in full_list:
 
                     print('-----------------------------------------------------')
                     print('Senator Trade Performance for', ticker, 'from', senator_date + ':', senator_performance(senator_date, ticker))
-                    print('Disclosure Trade Performance for', ticker, 'from', senator_date + ':', disclosure_performance(disclosure_date, ticker))
+                    print('Disclosure Trade Performance for', ticker, 'from', disclosure_date + ':', disclosure_performance(disclosure_date, ticker))
 
                 except:
                     ('################################ fail')
